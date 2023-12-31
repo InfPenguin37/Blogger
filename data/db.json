@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First React App",
+      "body": "Lorem ipsum",
+      "author": "Josh",
+      "id": 1
+    },
+    {
+      "title": "Workout Tips",
+      "body": "Lorem ipsum",
+      "author": "Marty",
+      "id": 2
+    },
+    {
+      "title": "Hello",
+      "body": "Hfdfs",
+      "author": "Luigi",
+      "id": 8
+    },
+    {
+      "title": "Does history work?",
+      "body": "Maybe it does",
+      "author": "Luigi",
+      "id": 9
+    }
+  ]
+}
